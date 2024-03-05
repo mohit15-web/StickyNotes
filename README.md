@@ -1,17 +1,35 @@
 # Sticky Notes Project 📝
 
-This project is a simple sticky notes application implemented in [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) with [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) and [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS).
+This is a simple web application for creating and managing sticky notes.
 
-## 🎨 Features
+## ✨ Features
 
-- Create sticky notes with custom text.
-- Drag and drop to rearrange notes.
-- Delete notes.
-- Customize notes with emojis.
+- Create Notes: Add new sticky notes with custom text.
+- Delete Notes: Remove unwanted sticky notes from the board.
+- Drag and Drop: Rearrange notes by dragging them to desired positions.
+- Save Notes: Persist sticky notes across sessions using local storage.
 
 ## 🚀 Usage
 
-1. **Clone the repository:**
+1. Clone the repository: git clone https://github.com/your-username/sticky-notes.git
+2. Open index.html in your web browser.
 
-   ```bash
-   git clone https://github.com/yourusername/sticky-notes.git
+## 🛠️ Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+ ## How to Use 🤔
+ 
+- Click on the "Paste Note" button to create a new sticky note.
+- To delete a note, click on the delete icon ('X').
+
+## 🎥 Demo
+
+You can see a live demo of the Random Colour Generator [here](https://mohit15-web.github.io/StickyNotes/).
+
+## 📦 Installation
+
+No installation is required. Simply open the HTML file in a web browser to use the application.
+
